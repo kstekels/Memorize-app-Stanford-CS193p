@@ -15,6 +15,7 @@
 		15C2E45C272005690079A33F /* EmojiMemoryGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C2E45B272005690079A33F /* EmojiMemoryGameView.swift */; };
 		15C2E45E2720056E0079A33F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C2E45D2720056E0079A33F /* Assets.xcassets */; };
 		15C2E4612720056E0079A33F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C2E4602720056E0079A33F /* Preview Assets.xcassets */; };
+		15CC0C4C2796A8B2008D0E70 /* Cardify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CC0C4B2796A8B2008D0E70 /* Cardify.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		15C2E45B272005690079A33F /* EmojiMemoryGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGameView.swift; sourceTree = "<group>"; };
 		15C2E45D2720056E0079A33F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15C2E4602720056E0079A33F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		15CC0C4B2796A8B2008D0E70 /* Cardify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cardify.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				156314C72721562700031066 /* EmojiMemoryGame.swift */,
 				15C2E45D2720056E0079A33F /* Assets.xcassets */,
 				15C2E45F2720056E0079A33F /* Preview Content */,
+				15CC0C4B2796A8B2008D0E70 /* Cardify.swift */,
 			);
 			path = "Memorize Stanford CS193p";
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				157537FB272440C000C6E403 /* Pie.swift in Sources */,
+				15CC0C4C2796A8B2008D0E70 /* Cardify.swift in Sources */,
 				156314C6272153A800031066 /* MemoryGame.swift in Sources */,
 				15C2E45C272005690079A33F /* EmojiMemoryGameView.swift in Sources */,
 				15C2E45A272005690079A33F /* Memorize_Stanford_CS193pApp.swift in Sources */,
